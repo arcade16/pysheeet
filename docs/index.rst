@@ -8,10 +8,10 @@
     :keywords: Python, Python Cheat Sheet
 
 
-Welcome to Python Cheatsheet!
+Welcome to Python on iPad!
 ==============================
 
-Welcome to pysheeet. This project aims at collecting useful Python snippets
+Welcome to Python on iPad! This project aims at collecting useful Python snippets
 in order to enhance pythoneers' coding experiences. Please feel free to
 contribute if you have any awesome ideas for improvements to code snippets,
 explanations, etc.
